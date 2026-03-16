@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @RajasmitaMitra
-- 👀 I’m interested in - Art , data science and many things 
-- 🌱 I’m currently learning - BCA
-- 📫 How to reach me - https://www.instagram.com/page.tian?igsh=ODVjbzB5ZXU3dDlv
+- 🌱 I’m currently studying - BCA
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm also a gamer and an artist 
 
